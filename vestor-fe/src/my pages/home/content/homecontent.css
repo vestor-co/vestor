@@ -1,0 +1,53 @@
+.bdycontent{
+    text-align: center;
+    font-family: 'Rubik';
+    height: 70vh;
+    
+    
+    
+    margin-top: 10vh;
+}
+.main{
+    margin: auto;
+  border: 1px solid white; 
+  width: 500px; 
+  margin-bottom: 20px;
+  height: 200px;
+  /* background-image: url(https://media.istockphoto.com/photos/abstract-colored-geometric-shapes-for-web-design-3d-render-picture-id944549962?b=1&k=20&m=944549962&s=170667a&w=0&h=GKHcagSI6dLhnh6i98b2EvnibxFTfAtg_oZBz7hsPA8=); */
+  background-size: cover;
+  /* background-color: coral; */
+}
+.main h2{
+    margin: 10px;
+    color: white;
+
+}
+.main p{
+    text-align: left;
+    margin: 25px;
+    margin-top: 40px;
+    color: white;
+}
+.link{
+
+    margin-top: 40px;
+}
+.link a{
+    color: white;
+}
+
+.sidemain{
+    margin: auto;
+    width: 500px;
+    border: 1px solid black;
+    height: 150px;
+}
+.app p{
+    font-size: 20px;
+    margin-top: 20px;
+
+}
+.btn button {
+    font-size: 18px;
+    margin: 30px;
+}

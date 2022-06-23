@@ -1,0 +1,12 @@
+
+*{
+    margin: 0;
+    padding: 0;  
+}
+.home{
+    background-image: url(../../../public/photos/vestorbg.png);
+    background-size:cover ;
+   
+
+
+}
